@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexmarful.github.io/learnupAI-app/sitemap.xml
